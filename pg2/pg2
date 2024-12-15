@@ -1,0 +1,11 @@
+programa {
+  funcao inicio() {
+    inteiro n
+    escreva ("Digite seu numero:")
+    leia (n)
+    se (n >= 100 e n <= 200)
+       escreva("Seu bilhete é = ", n)
+    senao 
+      escreva("seu bilhete não é entre 100 e 200")
+  }
+}
