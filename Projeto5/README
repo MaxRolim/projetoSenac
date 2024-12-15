@@ -1,0 +1,4 @@
+Elabore um algoritmo que solicite ao usuário digitar seu nome e três notas. Realize o cálculo da
+média ( (nota1 + nota2 + nota3) / 3). Caso sua nota seja maior ou igual a 7, 
+ele estará aprovado. Caso sua nota esteja entre 6 e 6.9, 
+ele estará em recuperação. Caso sua média seja menor que 6, ele estará reprovado.
