@@ -1,0 +1,3 @@
+Desenvolva um algoritmo em que é solicitado ao usuário digitar em 
+qual país ele nasceu. Caso o usuário digite “Brasil” ou “brasil”, 
+exibirá na tela a seguinte mensa-gem: “Você é brasileiro”.
